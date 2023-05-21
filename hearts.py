@@ -15,4 +15,3 @@ for i in range(10000):
         color("white")
     goto(0,0)
 done()
-       
