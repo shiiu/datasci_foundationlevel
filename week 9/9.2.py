@@ -1,6 +1,0 @@
-x= open('mytext.txt','r')
-s= x.read()
-print(s)
-x.close()
-print(s)
-print (s)
